@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SynthesiaMetadata Version="1">
   <Songs>
-    <Song UniqueId="80ba1d26b7a8f07b8ccea981d954a2d6" Title="Frontier Village Dali" Composer="Nobuo Uematsu" Arranger="FFMelodie" MadeFamousBy="Final Fantasy IX" Tags="Final Fantasy" Copyright="Midiano" />
+    <Song UniqueId="80ba1d26b7a8f07b8ccea981d954a2d6" Title="Frontier Village Dali" Composer="Nobuo Uematsu" Arranger="FFMelodie" MadeFamousBy="Final Fantasy IX" Tags="Final Fantasy" Difficulty="10" Copyright="Midiano" />
+    <Song UniqueId="73abc08c45b89b8b648ae6afde3b66a2" Title="Ahead on Our Way" MadeFamousBy="Final Fantasy VII" Composer="Nobuo Uematsu" Tags="Final Fantasy" Difficulty="15" Copyright="Midiano" />
+    <Song UniqueId="6f69d0bd361a20f5b38856fc26f76d85" Title="There's a Place in My Heart" Tags="Seiken Densetsu" Composer="Yoko Shimomura" Difficulty="10" MadeFamousBy="Legend of Mana" Copyright="Midiano" />
   </Songs>
+  <Groups>
+    <Group Name="Video Games">
+      <Group Name="Final Fantasy VII">
+        <Song UniqueId="73abc08c45b89b8b648ae6afde3b66a2" />
+      </Group>
+      <Group Name="Legend Of Mana">
+        <Song UniqueId="6f69d0bd361a20f5b38856fc26f76d85" />
+      </Group>
+      <Group Name="Final Fantasy IX">
+        <Song UniqueId="80ba1d26b7a8f07b8ccea981d954a2d6" />
+      </Group>
+      <Group Name="Final Fantasy X" />
+    </Group>
+    <Group Name="Animes" />
+    <Group Name="Movies" />
+  </Groups>
 </SynthesiaMetadata>
