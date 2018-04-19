@@ -6,6 +6,7 @@
     <Song UniqueId="6f69d0bd361a20f5b38856fc26f76d85" Title="There's a Place in My Heart" Tags="Seiken Densetsu" Composer="Yoko Shimomura" Difficulty="10" MadeFamousBy="Legend of Mana" />
     <Song UniqueId="21bb6b84f6c199315d6d4a731190b0ef" Title="Spinach Rag" Composer="Nobuo Uematsu" MadeFamousBy="Final Fantasy VI" Tags="Final Fantasy" />
     <Song UniqueId="b7f52ad1d4fef3b479428e106c1ea72b" Title="Grandma" MadeFamousBy="NieR" Composer="Keiichi Okabe" FingerHints=" t1: 5211253151252151555252112531212511511212452132512512152123112125531521135 t2: 67808766760680806767068067076086086086676076076686808608606808686808676707606012067808768-79170878069767866796780767660986060076808680680867670760707606780876" Tags="NieR" Difficulty="40" />
+    <Song UniqueId="521913d083b3a108ec9562e640ccf77a" Title="Pineapple Rag" Composer="Scott Joplin" Arranger="Warren Trachtman" />
   </Songs>
   <Groups>
     <Group Name="Animes" />
@@ -31,6 +32,11 @@
         <Group Name="NieR">
           <Song UniqueId="b7f52ad1d4fef3b479428e106c1ea72b" />
         </Group>
+      </Group>
+    </Group>
+    <Group Name="Rag Time">
+      <Group Name="Scott Joplin">
+        <Song UniqueId="521913d083b3a108ec9562e640ccf77a" />
       </Group>
     </Group>
   </Groups>
